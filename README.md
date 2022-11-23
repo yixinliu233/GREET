@@ -14,9 +14,8 @@ This code requires the following:
 * Scipy==1.7.3
 
 ## Usage
-Just run the script corresponding to the experiment and dataset you want. For instance:
+Just run the script corresponding to the dataset you want. For instance:
 
-* Run on Cora dataset:
 ```
 bash script/run_cora.sh
 ```
