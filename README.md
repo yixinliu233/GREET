@@ -1,6 +1,7 @@
 # GREET
-
 This is the source code of AAAI'23 paper "Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating".
+
+![The proposed framework](framework.png)
 
 ## Requirements
 This code requires the following:
