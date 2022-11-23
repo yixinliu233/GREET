@@ -19,3 +19,16 @@ Just run the script corresponding to the dataset you want. For instance:
 ```
 bash script/run_cora.sh
 ```
+
+## Cite
+
+If you compare with, build on, or use aspects of this work, please cite the following:
+```
+@inproceedings{
+liu2023beyond,
+title={Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating},
+author={Liu, Yixin and Zheng, Yizhen and Zhang, Daokun and Lee, Vincent and Pan, Shirui},
+booktitle={AAAI},
+year={2023}
+}
+```
