@@ -15,12 +15,19 @@ This code requires the following:
 ## Usage
 Just run the script corresponding to the experiment and dataset you want. For instance:
 
-* Run out-of-distribution detection on BZR (ID) and COX2 (OOD) datasets:
+* Run on Cora dataset:
 ```
-bash script/oodd_BZR+COX2.sh
+bash script/run_cora.sh
 ```
 
-* Run anomaly detection on PROTEINS_full datasets:
+## Cite
+
+If you compare with, build on, or use aspects of this work, please cite the following:
 ```
-bash script/ad_PROTEINS_full.sh
+@inproceedings{liu2023goodd,
+  title={GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection},
+  author={Liu, Yixin and Ding, Kaize and Liu, Huan and Pan, Shirui},
+  booktitle={Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining},
+  year={2023}
+}
 ```
