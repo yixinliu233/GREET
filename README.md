@@ -19,15 +19,3 @@ Just run the script corresponding to the experiment and dataset you want. For in
 ```
 bash script/run_cora.sh
 ```
-
-## Cite
-
-If you compare with, build on, or use aspects of this work, please cite the following:
-```
-@inproceedings{liu2023goodd,
-  title={GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection},
-  author={Liu, Yixin and Ding, Kaize and Liu, Huan and Pan, Shirui},
-  booktitle={Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining},
-  year={2023}
-}
-```
